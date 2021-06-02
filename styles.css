@@ -4,3 +4,28 @@
     height: 80%;
     width: 40%;
 }
+
+#flightDisplay {
+    text-align: center; 
+    height: 400px; 
+    width: 100%;
+}
+
+.center-block {
+    text-align: center; 
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#flightStatus {
+    color: green;
+}
+
+#spaceShuttleHeight {
+    display: inline-block;
+}
+
+.centered {
+    text-align: center;
+}
+
